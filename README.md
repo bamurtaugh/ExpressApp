@@ -7,5 +7,3 @@ The main content can be found in app.js.
 Update.
 
 ## Test
-
-Content
